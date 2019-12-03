@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "http.proxySupport": "off",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "powermode.enabled": true
+}
