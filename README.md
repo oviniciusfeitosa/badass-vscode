@@ -12,7 +12,7 @@ To show all installed extensions use the comand below:
 code --list-extensions
 ```
 
-### Install VSCode extensions
+## Install VSCode extensions
 
 To install current VSCode extensions, just run the command below:
 
