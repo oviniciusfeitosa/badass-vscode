@@ -2,20 +2,9 @@
 
 Badass settins to pump your VSCode
 
-![](https://i.gifer.com/4BvA.gif)
+![badass gif](https://i.gifer.com/4BvA.gif)
 
-## Files
-- [Configuration file](./config/settings.json)
-
-## Extensions
-
-Installed Extensions:
-
-- dbaeumer.vscode-eslint
-- Equinusocio.vsc-material-theme
-- grogdunn.netbeans-keybindings
-- hoovercj.vscode-power-mode
-- yzane.markdown-pdf
+## Show Installed extensions
 
 To show all installed extensions use the comand below:
 
@@ -23,15 +12,17 @@ To show all installed extensions use the comand below:
 code --list-extensions
 ```
 
-### Install current extensions
+### Install VSCode extensions
+
+To install current VSCode extensions, just run the command below:
 
 ```
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension Equinusocio.vsc-material-theme
-code --install-extension grogdunn.netbeans-keybindings
-code --install-extension hoovercj.vscode-power-mode
-code --install-extension yzane.markdown-pdf
+sudo bash install_badass_extensions.sh
 ```
+
+## Files
+- [Configuration file](./config/settings.json)
+- [Installed Extensions](./config/extensions)
 
 ## References
 
