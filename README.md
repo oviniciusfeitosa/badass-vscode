@@ -2,7 +2,7 @@
 
 Badass settins to pump your VSCode
 
-![badass gif](https://i.gifer.com/4BvA.gif)
+![badass gif](./config/4BvA.gif)
 
 ## Show Installed extensions
 
