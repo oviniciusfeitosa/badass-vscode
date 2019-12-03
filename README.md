@@ -14,6 +14,12 @@ code --list-extensions
 
 ## Install VSCode extensions
 
+Here you have extensions like Power Mode. If you want to manually active Power Mode, click [here](pages/ActivePowermode.md).
+
+![demo](https://raw.githubusercontent.com/hoovercj/vscode-power-mode/master/images/demo-presets-particles.gif)
+
+
+
 To install current VSCode extensions, just run the command below:
 
 ```
