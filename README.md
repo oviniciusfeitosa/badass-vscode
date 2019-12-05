@@ -1,8 +1,13 @@
+
+<div align="center">
+
+![badass gif](./config/4BvA.gif)
+
+</div>
+
 # Badass VSCode :sunglasses:
 
 Badass settins to pump your VSCode
-
-![badass gif](./config/4BvA.gif)
 
 ## Show Installed extensions
 
